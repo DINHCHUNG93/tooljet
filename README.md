@@ -1,3 +1,42 @@
+
+
+Chỉ cần 1 câu lệnh bạn có ngay Dashboard cho CRM hay AI Agent tích hợp vào HRM - Nền tảng Low-code mã nguồn mở hàng đầu để xây dựng ứng dụng nội bộ và AI Agents
+
+Dự án hiện đã đạt gần 38.000⭐ trên GitHub, trở thành một trong những nền tảng low-code/open-source phổ biến nhất thế giới dành cho việc xây dựng dashboard, công cụ nội bộ, workflow và ứng dụng doanh nghiệp.
+
+Những điểm nổi bật của ToolJet:
+
+✅ Kéo thả giao diện với hơn 60 thành phần UI có sẵn
+✅ Kết nối hơn 75 nguồn dữ liệu: PostgreSQL, MySQL, MongoDB, REST API, GraphQL, Google Sheets, Slack, Stripe…
+✅ Chạy JavaScript và Python trực tiếp trong ứng dụng
+✅ Hỗ trợ Docker, Kubernetes và self-host hoàn toàn
+✅ Phân quyền chi tiết theo người dùng và nhóm
+✅ Hỗ trợ cộng tác nhiều người cùng chỉnh sửa ứng dụng.
+
+Điểm thú vị nhất của ToolJet trong năm 2026 chính là định hướng AI-native.
+
+Bạn chỉ cần mô tả bằng ngôn ngữ tự nhiên:
+
+“Tạo dashboard theo dõi doanh thu theo khu vực với biểu đồ và bộ lọc thời gian”
+
+ToolJet AI có thể tự sinh giao diện, schema dữ liệu, truy vấn và logic xử lý chỉ trong vài phút.
+
+Một số ứng dụng thực tế:
+
+* CRM nội bộ
+* Dashboard vận hành doanh nghiệp
+* Hệ thống quản lý kho
+* Approval workflow
+* Admin panel
+* AI agents và automation workflows
+* Công cụ phân tích dữ liệu nội bộ. (ToolJet Docs)
+
+Đối với các startup và doanh nghiệp nhỏ, ToolJet có thể giúp tiết kiệm hàng tháng phát triển frontend và backend cho các ứng dụng nội bộ.
+
+Một dự án mã nguồn mở rất đáng để bookmark nếu bạn đang xây dựng hệ sinh thái AI Agent hoặc muốn tăng tốc phát triển ứng dụng doanh nghiệp.
+
+
+
 ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building and deploying internal tools, workflows and AI agents. The community edition provides a powerful visual builder, drag-and-drop UI, and integrations with databases, APIs, SaaS apps, and object storage. For AI-powered UI generation, query building, debugging, and enterprise features, see ToolJet AI.
 
  :star: If you find ToolJet useful, please consider giving us a star on GitHub! Your support helps us continue to innovate and deliver exciting features.
